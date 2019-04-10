@@ -8,17 +8,17 @@
 
 ## 思维模式
 
-* [Untitled](thinking-pattern/untitled.md)
+* [大时间周期](thinking-pattern/untitled.md)
 
 ## 行为模式
 
-* [Untitled](behavior-pattern/untitled.md)
+* [深渊凝望](behavior-pattern/untitled.md)
 
 ## 清单模式
 
-* [Untitled](checklist-pattern/untitled.md)
+* [学习清单](checklist-pattern/untitled.md)
 
 ## 年鉴文档规范
 
-* [unknown](doc-standard/1.md)
+* [20190410-0](doc-standard/1.md)
 
