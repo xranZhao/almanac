@@ -8,9 +8,5 @@ description: 关于这本书和我
 
 年鉴会随着时间更新。
 
-### how
-
-This is a specification document.
-
 #### 
 
