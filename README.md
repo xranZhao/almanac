@@ -4,10 +4,6 @@ description: 关于这本书和我
 
 # 序言
 
-20190410 Initialize
-
-20190411 Changed
-
 ### 持续更新中......
 
 这本书是一本年鉴。
@@ -18,5 +14,9 @@ description: 关于这本书和我
 
 年鉴会随着时间更新。
 
-#### 
+---
+
+20190410 Initialized
+
+20190411 Changed
 

@@ -22,8 +22,8 @@
 ## 清单模式
 
 * [情绪清单](checklist-pattern/20190410-0.md)
-* [奋斗者清单](checklist-pattern/20190411-1.md)
-* [日常清单](checklist-pattern/20190410-1.md)
+* [奋斗者清单](checklist-pattern/20190410-1.md)
+* [日常清单](checklist-pattern/20190411-1.md)
 * [文案清单](checklist-pattern/20190410-2.md)
 * [间架结构清单](checklist-pattern/20190411-0.md)
 * [诱惑源清单](checklist-pattern/20190411-2.md)
