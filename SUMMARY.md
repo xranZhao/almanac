@@ -14,10 +14,11 @@
 ## 行为模式
 
 * [draft](behavior-pattern/20190410-0.md)
-* [printer](behavior-pattern/20190410-3.md)
-* [workflowy](behavior-pattern/20190410-1.md)
-* [calligraphy](behavior-pattern/20190410-4.md)
-* [strive](behavior-pattern/20190410-2.md)
+* [printer](behavior-pattern/20190411-1.md)
+* [workflowy](behavior-pattern/20190411-0.md)
+* [calligraphy](behavior-pattern/20190411-4.md)
+* [strive](behavior-pattern/20190411-2.md)
+* [lose-weight](behavior-pattern/20190411-3.md)
 
 ## 清单模式
 
