@@ -8,25 +8,25 @@
 
 ## 思维模式
 
-* [大时间周期](thinking-pattern/20190410-0.md)
-* [灵光一现](thinking-pattern/20190410-1.md)
+* [long-duration](thinking-pattern/20190410-0.md)
+* [inspiration-flash](thinking-pattern/20190410-1.md)
 
 ## 行为模式
 
-* [草稿纸模式](behavior-pattern/20190410-0.md)
-* [打印机模式](behavior-pattern/20190410-3.md)
-* [workflowy 模式](behavior-pattern/20190410-1.md)
-* [练字模式](behavior-pattern/20190410-4.md)
-* [奋斗者模式](behavior-pattern/20190410-2.md)
+* [draft](behavior-pattern/20190410-0.md)
+* [printer](behavior-pattern/20190410-3.md)
+* [workflowy](behavior-pattern/20190410-1.md)
+* [calligraphy](behavior-pattern/20190410-4.md)
+* [strive](behavior-pattern/20190410-2.md)
 
 ## 清单模式
 
-* [情绪清单](checklist-pattern/20190410-0.md)
-* [奋斗者清单](checklist-pattern/20190410-1.md)
-* [日常清单](checklist-pattern/20190411-1.md)
-* [文案清单](checklist-pattern/20190410-2.md)
-* [间架结构清单](checklist-pattern/20190411-0.md)
-* [诱惑源清单](checklist-pattern/20190411-2.md)
+* [emotion](checklist-pattern/20190410-0.md)
+* [strive](checklist-pattern/20190410-1.md)
+* [daily](checklist-pattern/20190411-1.md)
+* [essay](checklist-pattern/20190410-2.md)
+* [character-structure](checklist-pattern/20190411-0.md)
+* [tempt](checklist-pattern/20190411-2.md)
 
 ## 年鉴文档规范
 
