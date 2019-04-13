@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序言](README.md)
+* [Preface](README.md)
 
 ## Changelog
 
