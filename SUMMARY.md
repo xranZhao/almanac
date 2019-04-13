@@ -8,29 +8,30 @@
 
 ## 思维模式
 
-* [long-duration](thinking-pattern/20190410-0.md)
-* [inspiration-flash](thinking-pattern/20190410-1.md)
+* [Long Duration](thinking-pattern/20190410-0.md)
+* [Inspiration Flash](thinking-pattern/20190410-1.md)
+* [Personality](thinking-pattern/20190413-0.md)
 
 ## 行为模式
 
-* [draft](behavior-pattern/20190410-0.md)
-* [printer](behavior-pattern/20190411-1.md)
-* [workflowy](behavior-pattern/20190411-0.md)
-* [calligraphy](behavior-pattern/20190411-4.md)
-* [strive](behavior-pattern/20190411-2.md)
-* [lose-weight](behavior-pattern/20190411-3.md)
+* [Draft](behavior-pattern/20190410-0.md)
+* [Printer](behavior-pattern/20190411-1.md)
+* [Workflowy](behavior-pattern/20190411-0.md)
+* [Calligraphy](behavior-pattern/20190411-4.md)
+* [Strive](behavior-pattern/20190411-2.md)
+* [Lose Weight](behavior-pattern/20190411-3.md)
 
 ## 清单模式
 
-* [emotion](checklist-pattern/20190410-0.md)
-* [strive](checklist-pattern/20190410-1.md)
-* [daily](checklist-pattern/20190411-1.md)
-* [essay](checklist-pattern/20190410-2.md)
-* [character-structure](checklist-pattern/20190411-0.md)
-* [tempt](checklist-pattern/20190411-2.md)
+* [Emotion](checklist-pattern/20190410-0.md)
+* [Strive](checklist-pattern/20190410-1.md)
+* [Life](checklist-pattern/20190411-1.md)
+* [Essay](checklist-pattern/20190410-2.md)
+* [Character Structure](checklist-pattern/20190411-0.md)
+* [Tempt](checklist-pattern/20190411-2.md)
 
 ## 年鉴文档规范
 
 * [20190410](doc-standard/20190410.md)
-* [模式文档规范格式](doc-standard/20190411.md)
+* [文档规范](doc-standard/20190411.md)
 
