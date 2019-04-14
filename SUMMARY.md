@@ -29,9 +29,9 @@
 * [Essay](checklist-pattern/20190410-2.md)
 * [Character Structure](checklist-pattern/20190411-0.md)
 * [Tempt](checklist-pattern/20190411-2.md)
+* [中西方历史对照表](checklist-pattern/20190414-0.md)
 
-## 年鉴文档规范
+## 文档规范
 
-* [20190410](doc-standard/20190410.md)
-* [文档规范](doc-standard/20190411.md)
+* [文档规范](doc-standard/20190410.md)
 
