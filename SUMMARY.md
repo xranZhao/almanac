@@ -8,9 +8,9 @@
 
 ## 思维模式
 
+* [Personality](tp/20190413-0.md)
 * [Long Duration](tp/20190410-0.md)
 * [Inspiration Flash](tp/20190410-1.md)
-* [Personality](tp/20190413-0.md)
 
 ## 行为模式
 
@@ -25,8 +25,8 @@
 
 * [Life](ct/20190411-1.md)
 * [Strive](ct/20190410-1.md)
-* [Tempt](ct/20190411-2.md)
 * [Essay](ct/20190410-2.md)
+* [Tempt](ct/20190411-2.md)
 * [Emotion](ct/20190410-0.md)
 * [Character Structure](ct/20190411-0.md)
 * [中西方历史对照表](ct/20190414-0.md)
